@@ -41,9 +41,3 @@ body{
 i{
     cursor: pointer;
 }
-
-@media screen and (max-width: 650px){
-    .list{
-        margin: 5px 10px;
-    }
-}
