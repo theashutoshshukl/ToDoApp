@@ -12,7 +12,7 @@ body{
 
 #task{
     width: 200px;
-    height: 30px;
+    height: 40px;
     border: 2px solid purple;
     padding: 5px;
     font-size: 17px;
@@ -25,7 +25,7 @@ body{
     border: 2px solid blue;
     margin: 9px 5px;
     width: 80px;
-    height: 32px;
+    height: 42px;
     cursor: pointer;
 }
 
